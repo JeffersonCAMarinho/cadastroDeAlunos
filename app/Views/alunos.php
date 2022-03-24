@@ -54,7 +54,7 @@
     };
     console.log(parms);
     var viewAluno = await $.ajax({
-        url: '/project-root/public/aluno/getAluno/'+parms.id,
+        url: '/cadastroDeAluno/public/aluno/getAluno/'+parms.id,
         type: 'GET',
         async: true,
         dataType: 'json',

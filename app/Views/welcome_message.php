@@ -133,7 +133,7 @@
 				<span id="hamburger"></span>
 			</button>
 			<ul id="menu" role="menu">
-				<li><a href="/project-root/public/aluno">Listar Alunos</a></li>
+				<li><a href="/cadastroDeAlunos/public/aluno">Listar Alunos</a></li>
 			</ul>
 		</nav>
 	</header>
